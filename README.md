@@ -1,6 +1,6 @@
 # CS-300-Major-Assignment
 
-This repo was the major assignment for my CS 300: Data Structures and Algorithms at Southern New Hampshire University. This project was completed in C++ and included a runtime analysis in Big(O) notation.
+This repo was the major assignment for my CS 300: Data Structures and Algorithms at Southern New Hampshire University. This project was completed in C++ and included a runtime analysis in Big O notation.
 
 ## Evaluation and Analysis
 
